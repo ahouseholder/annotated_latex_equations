@@ -32,18 +32,18 @@ This is due to the fact that the latex files contain no bibtex entries or citati
 
 * [example_prob.tex] A simple one inside the equation construct, in a double column format
 
-![example_prob.tex output](example_output_figs/example_prob.png)
+![example_prob.tex output](/example_output_figs/example_prob.png)
 
 * [example_prob2.tex] A more complex one, but this time inside the figure construct in a double column format
 
-![example_prob2.tex output](example_output_figs/example_prob2.png)
+![example_prob2.tex output](/example_output_figs/example_prob2.png)
 
 * [example_laplace.tex] Inside the wrapfigure construct but for a single column format
 
-![example_laplace.tex output](example_output_figs/example_laplace.png)
+![example_laplace.tex output](/example_output_figs/example_laplace.png)
 
 * [example_overlay.tex] More complicated examples, side-by-side using the minipage construct in a single column format
 
-![example_overlay.tex output](example_output_figs/example_overlay.png)
+![example_overlay.tex output](/example_output_figs/example_overlay.png)
 
 
