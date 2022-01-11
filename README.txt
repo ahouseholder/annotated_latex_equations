@@ -33,6 +33,7 @@ This is due to the fact that the latex files contain no bibtex entries or citati
 * [example_prob.tex] A simple one inside the equation construct, in a double column format
 
 ![](/example_output_figs/example_prob.png)
+<img src="/example_output_figs/example_prob.png">
 
 * [example_prob2.tex] A more complex one, but this time inside the figure construct in a double column format
 
